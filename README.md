@@ -199,7 +199,7 @@ Europebet
 
 - postman [https://github.com/EugeneVasiukovic/postman]
 
-![postman](img\postman.png)
+![postman](https://yandex.by/images/search?img_url=http%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Flogos-brands-5%2F24%2Fpostman-1024.png&lr=21193&pos=2&rpt=simage&source=serp&text=%D0%97%D0%BD%D0%B0%D1%87%D0%BE%D0%BA%20%D0%BF%D0%BE%D1%81%D1%82%D0%BC%D0%B0%D0%BD)
 
 - Terminal Linux [https://github.com/EugeneVasiukovic/terminal)]
 
