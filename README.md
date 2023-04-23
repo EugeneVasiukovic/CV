@@ -203,7 +203,7 @@ Europebet
 
 - Terminal Linux [https://github.com/EugeneVasiukovic/terminal)]
 
-![terminal](img\terminal.png)
+![terminal](https://drive.google.com/file/d/10--NeCpPIoZpHoSaTmBfLAAt8taM_NuL/view?usp=share_link)
 
 - github [https://github.com/EugeneVasiukovic)]
 
