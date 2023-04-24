@@ -42,6 +42,7 @@
 # EXPERIENCE
 
 ![experience](https://im.wampi.ru/2023/04/24/experience.png)
+
 В опыт добавляем 3 должность по порядку как идут :
 
 ITX, outsourcing company
