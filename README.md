@@ -26,7 +26,7 @@
 
 # About us
 
-![About us](https://wampi.ru/image/Rt2fyVE)
+![About us](https://wampi.ru/image/Rt2fyVE](https://ie.wampi.ru/2023/04/24/ABOUT_US.png)
 
 Изменить фото
 
